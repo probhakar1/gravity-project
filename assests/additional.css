@@ -4721,6 +4721,10 @@ equation{
 
 
 .list-top a {
-  color: #f9c74f;
+  color: white;
 }
 
+
+a:hover {
+  color: red;
+}
